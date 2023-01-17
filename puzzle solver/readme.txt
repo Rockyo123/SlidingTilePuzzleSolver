@@ -1,0 +1,1 @@
+Sliding Tile puzzle solver in C++. Uses A* algorithm to find goal state. 
